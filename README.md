@@ -1,5 +1,6 @@
 # Recycl-EZ
 50.034 CDS Project 
+Codes for building our models
 
 A Recyclable waste sorting mechanism built on Convolutional Neural network (CNN) deep learning models.
 
